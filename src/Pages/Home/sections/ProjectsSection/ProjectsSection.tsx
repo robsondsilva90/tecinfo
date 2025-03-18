@@ -31,7 +31,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Otimização de Redes de Computadores",
             subtitle: "Analise, recomendação de equipamentos, ajustes e otimização",
-            srcImg: "./src/assets/images/redes.png",
+            srcImg: "./assets/images/redes.png",
             description: "Analise de infra-estrutura cabeada, redes WiFi, configuração de firewall, configuração de VPN, otimização",
             technologies: "Testes com ferramentas apropriadas, softwares de diagnosticos, conflitos de ip",
             whatsURL: "https://wa.me/5511912116623",
@@ -40,7 +40,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Manutenção de Servidores",
             subtitle: "Analise de requisitos, atualização, otimização de software",
-            srcImg: "./src/assets/images/servidores.png",
+            srcImg: "./assets/images/servidores.png",
             description: "Realizo a analise de demanda para sistemas, administração de usuários em AD Windows e Linux, instalação, configuração e manutenção de hardware e software",
             technologies: "Instalação, Configuração, Manutenção em geral",
             whatsURL: "https://wa.me/5511912116623",
