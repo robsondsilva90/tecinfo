@@ -16,7 +16,7 @@ const ProjectsSection: React.FC = () => {
             srcImg: "./assets/images/desktop.png",
             description: "Realizo a manutenção, atualização, otimização, dos computadores na sua casa ou no seu escritório, avaliação do equipamento e orientações de hardware e software",
             technologies: "Manutenção Preventiva, Otimização, Atualização",
-            whatsURL: "https://wa.me/5511912116623",
+            whatsURL: "https://wa.me/5511956059752",
             emaiURL: "mailto:robson.silva90@outlook.com?subject=Solicitação de Visita&body=Gostaria de solicitar uma visita técnica para...",
         },
         {
@@ -25,7 +25,7 @@ const ProjectsSection: React.FC = () => {
             srcImg: "./assets/images/notebook.png",
             description: "Realizo a manutenção, atualização e otimização dos notebooks, analise de sistema operacional, proteção e avaliação de desempenho de hardware ",
             technologies: "Otimização de SO, Antivirus, avaliação de defasagem",
-            whatsURL: "https://wa.me/5511912116623",
+            whatsURL: "https://wa.me/5511956059752",
             emaiURL: "mailto:robson.silva90@outlook.com?subject=Solicitação de Visita&body=Gostaria de solicitar uma visita técnica para...",
         },
         {
@@ -34,7 +34,7 @@ const ProjectsSection: React.FC = () => {
             srcImg: "./assets/images/redes.png",
             description: "Analise de infra-estrutura cabeada, redes WiFi, configuração de firewall, configuração de VPN, otimização",
             technologies: "Testes com ferramentas apropriadas, softwares de diagnosticos, conflitos de ip",
-            whatsURL: "https://wa.me/5511912116623",
+            whatsURL: "https://wa.me/5511956059752",
             emaiURL: "mailto:robson.silva90@outlook.com?subject=Solicitação de Visita&body=Gostaria de solicitar uma visita técnica para...",
         },
         {
@@ -43,7 +43,7 @@ const ProjectsSection: React.FC = () => {
             srcImg: "./assets/images/servidores.png",
             description: "Realizo a analise de demanda para sistemas, administração de usuários em AD Windows e Linux, instalação, configuração e manutenção de hardware e software",
             technologies: "Instalação, Configuração, Manutenção em geral",
-            whatsURL: "https://wa.me/5511912116623",
+            whatsURL: "https://wa.me/5511956059752",
             emaiURL: "mailto:robson.silva90@outlook.com?subject=Solicitação de Visita&body=Gostaria de solicitar uma visita técnica para...",
         },
     ]
