@@ -13,7 +13,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Manutenção de Estação Desktop",
             subtitle: "Prevenção atualização e otmização",
-            srcImg: "./tecinfo/src/assets/images/desktop.png",
+            srcImg: "./assets/images/desktop.png",
             description: "Realizo a manutenção, atualização, otimização, dos computadores na sua casa ou no seu escritório, avaliação do equipamento e orientações de hardware e software",
             technologies: "Manutenção Preventiva, Otimização, Atualização",
             whatsURL: "https://wa.me/5511912116623",
