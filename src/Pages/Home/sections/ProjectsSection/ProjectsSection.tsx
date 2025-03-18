@@ -13,7 +13,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Manutenção de Estação Desktop",
             subtitle: "Prevenção atualização e otmização",
-            srcImg: "src/assets/images/desktop.png",
+            srcImg: "./src/assets/images/desktop.png",
             description: "Realizo a manutenção, atualização, otimização, dos computadores na sua casa ou no seu escritório, avaliação do equipamento e orientações de hardware e software",
             technologies: "Manutenção Preventiva, Otimização, Atualização",
             whatsURL: "https://wa.me/5511912116623",
@@ -22,7 +22,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Manutenção de Estação Notebook",
             subtitle: "Prevenção atualização e otmização",
-            srcImg: "/src/assets/images/notebook.png",
+            srcImg: "./src/assets/images/notebook.png",
             description: "Realizo a manutenção, atualização e otimização dos notebooks, analise de sistema operacional, proteção e avaliação de desempenho de hardware ",
             technologies: "Otimização de SO, Antivirus, avaliação de defasagem",
             whatsURL: "https://wa.me/5511912116623",
@@ -31,7 +31,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Otimização de Redes de Computadores",
             subtitle: "Analise, recomendação de equipamentos, ajustes e otimização",
-            srcImg: "/src/assets/images/redes.png",
+            srcImg: "./src/assets/images/redes.png",
             description: "Analise de infra-estrutura cabeada, redes WiFi, configuração de firewall, configuração de VPN, otimização",
             technologies: "Testes com ferramentas apropriadas, softwares de diagnosticos, conflitos de ip",
             whatsURL: "https://wa.me/5511912116623",
@@ -40,7 +40,7 @@ const ProjectsSection: React.FC = () => {
         {
             title: "Manutenção de Servidores",
             subtitle: "Analise de requisitos, atualização, otimização de software",
-            srcImg: "/src/assets/images/servidores.png",
+            srcImg: "./src/assets/images/servidores.png",
             description: "Realizo a analise de demanda para sistemas, administração de usuários em AD Windows e Linux, instalação, configuração e manutenção de hardware e software",
             technologies: "Instalação, Configuração, Manutenção em geral",
             whatsURL: "https://wa.me/5511912116623",
