@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
                         </IconButton>
                     </Box>
                     <Typography textAlign="center">
-                        © 2025 Robson Ricardo - Todos os direitos reservados
+                        R. Ibitiba, 178 - JD. Quarto Centenário - Guarulhos SP - 07161-030
                     </Typography>
                 </Container>
             </Box>
