@@ -29,5 +29,3 @@
    $ npm install
 
 
-  **Em Execução:**
-  [Clique aqui para ver o funcionamento](...)
