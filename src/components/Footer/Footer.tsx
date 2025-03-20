@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
                         </IconButton>
                     </Box>
                     <Typography textAlign="center">
-                        R. Ibitiba, 178 - JD. Quarto Centenário - Guarulhos SP - 07161-030
+                        R. Ibitiba, 178 - JD. IV Centenário - Guarulhos SP - 07161-030
                     </Typography>
                 </Container>
             </Box>
